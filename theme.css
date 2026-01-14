@@ -451,7 +451,7 @@ CustomIDAMemo
     qproperty-line-fg-numlit-in-data: #6851a2;    /* Numbers in data (purple) */
     qproperty-line-fg-keyword: #ce4770;           /* Keywords (pink-red) */
     qproperty-line-fg-register-name: #d4572b;     /* Register names (orange) */
-    qproperty-line-fg-import-name: #218871;       /* Import names (teal) */
+    qproperty-line-fg-import-name: #2473b6;       /* Import names (teal) */
     qproperty-line-fg-segment-name: #2473b6;      /* Segment names (blue) */
     qproperty-line-fg-dummy-unknown-name: #92898a; /* Dummy unknown names (gray) */
     qproperty-line-fg-code-name: #2473b6;         /* Code names (blue) */
@@ -476,7 +476,7 @@ CustomIDAMemo
     
     /* Graph view colors */
     qproperty-graph-bg-top: #f8efe7;              /* Graph background top */
-    qproperty-graph-bg-bottom: #f8efe7;           /* Graph background bottom */
+    qproperty-graph-bg-bottom: #eff8e5;           /* Graph background bottom */
     qproperty-graph-node-title-normal: #2c232e;   /* Normal node title */
     qproperty-graph-node-title-selected: #2c232e; /* Selected node title */
     qproperty-graph-node-title-current: #2c232e;  /* Current node title */
