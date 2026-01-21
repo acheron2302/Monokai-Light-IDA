@@ -426,11 +426,11 @@ CustomIDAMemo
     qproperty-line-fg-dummy-data-name: #d4572b;   /* Dummy data (orange) */
     qproperty-line-fg-regular-data-name: #d4572b; /* Regular data (orange) */
     qproperty-line-fg-demangled-name: #218871;    /* Demangled names (teal) */
-    qproperty-line-fg-punctuation: #92898a;       /* Punctuation (medium gray) */
+    qproperty-line-fg-punctuation: #72696D;       /* Punctuation (medium gray) */
     qproperty-line-fg-charlit-in-insn: #b16803;   /* Character literals (orange-brown) */
     qproperty-line-fg-strlit-in-insn: #b16803;    /* String literals (orange-brown) */
     qproperty-line-fg-numlit-in-insn: #6851a2;    /* Numeric literals (purple) */
-    qproperty-line-fg-void-opnd: #ce4770;         /* Void operands (pink-red) */
+    qproperty-line-fg-void-opnd: #6851a2;         /* Void operands (pink-red) */
     qproperty-line-fg-code-xref: #218871;         /* Code xrefs (teal) */
     qproperty-line-fg-data-xref: #d4572b;         /* Data xrefs (orange) */
     qproperty-line-fg-code-xref-to-tail: #1a6d5a; /* Code xref to tail (darker teal) */
@@ -449,9 +449,9 @@ CustomIDAMemo
     qproperty-line-fg-strlit-in-data: #b16803;    /* Strings in data (orange-brown) */
     qproperty-line-fg-charlit-in-data: #b16803;   /* Characters in data (orange-brown) */
     qproperty-line-fg-numlit-in-data: #6851a2;    /* Numbers in data (purple) */
-    qproperty-line-fg-keyword: #ce4770;           /* Keywords (pink-red) */
+    qproperty-line-fg-keyword: #ce4770;           /* This is the constant number and the return, do while, for loop */
     qproperty-line-fg-register-name: #d4572b;     /* Register names (orange) */
-    qproperty-line-fg-import-name: #2473b6;       /* Import names (teal) */
+    qproperty-line-fg-import-name: #2473b6;       /* The color for the variable which will be display by decompiler */
     qproperty-line-fg-segment-name: #2473b6;      /* Segment names (blue) */
     qproperty-line-fg-dummy-unknown-name: #92898a; /* Dummy unknown names (gray) */
     qproperty-line-fg-code-name: #2473b6;         /* Code names (blue) */
